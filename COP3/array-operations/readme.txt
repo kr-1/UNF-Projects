@@ -1,0 +1,1 @@
+This program demonstrates basic array operations using an array full of numbers, such as inserting elements, deleting elements, searching for a specific value within an array, and finding the maximum and minimum values contained in the array
