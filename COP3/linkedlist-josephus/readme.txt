@@ -1,0 +1,1 @@
+This program calculates the solution to the Josephus problem. The user is asked to input the parameters of the problem: how many people n are in the circle, which person starts, what is the countoff number? The program creates a linked list, where each "person" is assigned a number from 1 to n and uses it to calculate the number (not index) of the final survivor.
