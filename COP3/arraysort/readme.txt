@@ -1,0 +1,1 @@
+This C program reads values from a file, test.txt, and stores them in an array. It then sorts the array from smallest to highest value, and prompts the user to enter an index. The program then tells the user what value is stored at that index.
